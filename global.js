@@ -1,5 +1,7 @@
 // git practice
 //console.log(global);
+// git practice 2
+// git practise 3
 
 global.setTimeout(() => {
     console.log('in timeout')
